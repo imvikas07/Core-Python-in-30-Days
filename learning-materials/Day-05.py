@@ -2,14 +2,13 @@
 Comments in Python are text notes within the code that are not executed as part of the program. They are used to explain and document what the code does, making it easier to understand and maintain. Comments can be added in various ways:
 '''
 
+
 ### Single-Line Comments
 Single-line comments start with a hash symbol (`#`). Everything after the `#` on that line is considered a comment and is ignored by the Python interpreter.
 
 **Example:**
-```python
 # This is a single-line comment
 print("Hello, World!")  # This prints a message to the console
-```
 
 ### Multi-Line Comments
 Multi-line comments can be written in two ways: using multiple single-line comments or using triple-quoted strings (`'''` or `"""`). Although triple-quoted strings are primarily used for multi-line strings, they can also serve as multi-line comments if they are not assigned to any variable.
