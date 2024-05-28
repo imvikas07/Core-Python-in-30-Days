@@ -1,0 +1,9 @@
+Quiz 1. Who is Developed Python?
+
+Quiz 2. When was the first of Python launched?
+
+Quiz 3. Python is a platfrom independent language. T/F 
+
+Quiz 4. How to make single line comment in python file?
+
+Quiz 5: Python is a statically typed programming language. T/F
