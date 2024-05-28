@@ -1,0 +1,10 @@
+Quiz 1. Write a python script to print 'Hello Echo' on the screen.
+
+Quiz 2. Write a python script to print 'Hello Echo' on the first line and Education Services on the second line.
+
+Quiz 3. Write a python script to print 'Hello Echo' on the sreen. (Remember to print double quotes).
+
+Quiz 4. Write a python scriptto print 'Safe Envirment' on the screen.(Remember to print
+double quotes and single quote).
+
+Quiz 5. Write a python scriptto print \n on the screen.
