@@ -1,5 +1,3 @@
-
-
 *************** import and keywords ******************
 
 Quiz 1. Write a python script to print all the keywords on the screen.
