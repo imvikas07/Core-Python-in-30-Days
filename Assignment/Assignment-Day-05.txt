@@ -1,0 +1,15 @@
+
+
+*************** import and keywords ******************
+
+Quiz 1. Write a python script to print all the keywords on the screen.
+
+Quiz 2. Use help section on python shell to see all the keywords.
+
+Quiz 3. Create two Python files A0.py and A1.py. Create a variable in A1.py and assign
+some value to it. Write a Python script to import A1 module in AO and print value of
+the variable created in AO.py
+
+Quiz 4. Out of all the keywords, name those keywords which are used as data.
+
+Quiz5. What is the use of del keyword?
