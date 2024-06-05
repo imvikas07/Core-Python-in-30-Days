@@ -1,0 +1,10 @@
+Quiz 1. Write a python script to convert a number into str type.
+
+Quiz 2. Write a python script to print Unicode of the character 'm'
+
+Quiz 3. Write a python script to print character representation of a given unicode 100.
+
+Quiz 4. Write a python script to convert a str type data into an int type. Also describe when a
+str type value is not possible to convert into an int type.
+
+Quiz 5. How to convert an integer value into a bool value?
