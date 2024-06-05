@@ -1,0 +1,12 @@
+****************** Assignment-12: Decision Control ***********************
+
+Quiz 1. Write a python script to check whether a given number is positive or non-positive
+
+Quiz 2. Write a python script to check whether a given number is divisible by 5 or not
+
+Quiz 3. Write a python script to check whether a given number is even or odd
+
+Quiz 4. Write a python script to print greater between two numbers. Print number only once
+even if the numbers are the same.
+
+Quiz 5. Write a python script to print two given words in dictionary order
