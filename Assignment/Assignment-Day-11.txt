@@ -1,0 +1,19 @@
+=========================Assignment-14: Match==================================
+
+Quiz 1. Write a python script to check whether a given number is a three digit number or not.
+
+Quiz 2. Write a python script to check whether a given number is positive, negative or zero.
+
+Quiz 3. Write a python script to make a menu driven program in which user has to choose
+one of the option from four given options - 1) Odd-Even, 2) positive - Non Positive, 3)
+Simple Interest and 4) find roots of quadratic equation. Match and execute
+appropriate code on user selection.
+
+Quiz 4. Write a python script to take one data from user and evaluate the type of data. If the
+data is of int type then print Monday, if the data is of float type then print Tuesday, if
+the data is of complex type then print Wednesday, if the data is of type bool then
+print Thursday.
+
+Quiz 5. Write a python script to take a string from the user. If the string is a part of "mysirg"
+then print "One", if the string is a part of "education" then print "Two" and if the string
+is a part of "services" then print "Three".
