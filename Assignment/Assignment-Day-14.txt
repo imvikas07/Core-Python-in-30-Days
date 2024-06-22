@@ -1,0 +1,16 @@
+
+Quiz 1.Write a python script to calculate sum of elements of a list.
+Quiz 2.Write a Python script to calculate average of elements of a list.
+Quiz 3.Write a Python script to create a list of squares of numbers of a given list.
+Quiz 4.Write a Python script to sort list elements in descending order.
+Quiz 5.Write a Python script to create a list from a given list by selecting only even places
+elements.
+
+Quiz 6.Write a python script to create a list of first N even natural numbers
+Quiz 7.Write a Python script to create a list of first N terms of a Fibonacci series
+Quiz 8.Write a Python script to create a list of first N prime numbers.
+Quiz 9.Write a Python script to add two matrices each of order 3 x 3. Store matrix elements
+in a list of lists.
+Quiz 10.Write a Python script to create two lists from a given list of numbers in such a way
+that the first list can have only positive numbers and second list can have only non
+positive numbers.
