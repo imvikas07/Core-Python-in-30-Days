@@ -1,0 +1,14 @@
+******************* Assignment-8: Input from keyboard ****************************
+
+Quiz 1. Write a python script to take your name as input from the user and then print it.
+
+Quiz 2. Write a python script to take input two numbers form the user, then calculate their
+sum and display the result.
+
+Quiz 3. Write a python script which takes the radius from the user and display area of the
+circle.
+
+Quiz 4. Write a python script to calculate square of a number. Number is entered by the
+user.
+
+Quiz 5. Write a python script which takes a character from the user and display its unicode.
